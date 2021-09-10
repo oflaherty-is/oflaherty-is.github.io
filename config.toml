@@ -1,0 +1,4 @@
+baseURL = 'https://github.oflaherty.is'
+languageCode = 'en-us'
+title = "o'Flaherty's are..."
+theme = 'beautifulhugo'
